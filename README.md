@@ -21,6 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Resources
 
+- [React 19 RC](https://19.react.dev/blog/2024/04/25/react-19)
 - [React 19 RC Upgrade Guide](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)
 - [Next.js 15 RC](https://nextjs.org/blog/next-15-rc)
 

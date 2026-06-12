@@ -16,7 +16,7 @@
 		"react-dom": "19.2.7"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.5.0",
 		"@types/node": "22.19.21",
 		"@types/react": "18.3.31",
 		"@types/react-dom": "18.3.7",
